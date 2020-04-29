@@ -1,6 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
 import { AuthService } from '../_services/auth.service';
-import { error } from '@angular/compiler/src/util';
 
 @Component({
   selector: 'app-register',
